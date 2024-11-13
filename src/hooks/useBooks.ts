@@ -92,9 +92,9 @@ export const useBooks = (callback?: (arg?: unknown) => void) => {
         const result = await axios.put<Book>(`/books/${id}`, book);
         if (isBook(result.data)) {
           const updatedBooks = (data || []).map((b) =>
-            b.id === book.id ? result.data : b
+            b.id === id ? result.data : b
           );
-          mutate(updatedBooks, false);
+          mutate(updatedBooks);
           return result.data;
         } else throw new Error("Invalid book data");
       } catch (error) {

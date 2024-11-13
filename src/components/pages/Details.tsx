@@ -74,7 +74,7 @@ const Details = () => {
                   flexDirection="column"
                   justifyContent="flex-start"
                 >
-                  <Rating value={4} readOnly />
+                  <Rating value={book.rating} readOnly />
                   <StatusCaption status={book.status} />
                 </Box>
               </Box>
