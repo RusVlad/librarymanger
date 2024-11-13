@@ -1,0 +1,101 @@
+[
+  {
+    "id": 8723,
+    "title": "The Great Adventure",
+    "author": "Alice Monroe",
+    "genre": "Fantasy",
+    "description": "<p>In a land filled with mythical creatures and ancient prophecies, a group of unlikely heroes embarks on a journey to save their kingdom from an impending doom. Each member of this eclectic band possesses unique talents, yet all are haunted by personal fears and regrets. Together, they must learn to trust each other and navigate a world where magic is both a blessing and a curse. </p> <p> As they journey through treacherous landscapes, they encounter cunning adversaries and mysterious artifacts that hold both power and peril. Along the way, secrets of the kingdom's history come to light, challenging their beliefs and reshaping their purpose. Some are driven by a need for redemption, while others confront past mistakes that continue to haunt them. </p> <p> Their quest will ultimately test their resolve, their friendship, and the strength of their unity. At the heart of their journey lies an ancient relic, the key to defeating an approaching darkness that could consume everything. Together, they must summon the courage to face their greatest fears and bring peace to their world. </p>",
+    "rating": 4,
+    "status": "read"
+  },
+  {
+    "id": 1294,
+    "title": "Through the Storm",
+    "author": "John Carter",
+    "genre": "Historical Fiction",
+    "description": "<p>Set against the backdrop of World War II, a young nurse finds herself caught in the midst of chaos and destruction. As she tends to wounded soldiers and civilians, she witnesses the horrors of war and the resilience of the human spirit. Amidst the turmoil, she forges deep bonds with her patients and colleagues, forming a makeshift family that sustains her through the darkest of times. </p> <p> Her journey takes her across war-torn landscapes and into the heart of battlefields, where she confronts the fragility of life and the brutality of conflict. Through her experiences, she gains a new perspective on the value of compassion and the importance of hope in the face of despair. </p> <p> As the war rages on, she must navigate treacherous paths and make difficult choices that will test her courage and convictions. In the midst of tragedy and loss, she finds solace in the bonds of friendship and the power of love to heal wounds that run deep. </p>",
+    "rating": 5,
+    "status": "reading"
+  },
+  {
+    "id": 5548,
+    "title": "Whispers in the Night",
+    "author": "Emily Grayson",
+    "genre": "Mystery",
+    "description": "<p>In the quiet town of Ravenswood, whispers of unsolved mysteries and hidden secrets linger in the night. Emily Grayson, a determined journalist, arrives to uncover the truth behind a series of eerie events that have left the townsfolk in fear. As she delves deeper into the town's history, she discovers a web of lies and deceit that stretches back generations.</p> <p>Emily's investigation leads her to an abandoned mansion on the outskirts of town, where she encounters strange occurrences and ghostly apparitions. Each clue she uncovers brings her closer to the heart of the mystery, but also puts her in greater danger. The more she learns, the more she realizes that some secrets are meant to stay buried.</p> <p>As the tension builds, Emily must navigate a maze of cryptic messages and hidden passages to uncover the truth. With the help of a few trusted allies, she races against time to solve the mystery before it consumes her. In the end, she must confront her own fears and the darkness that lurks within Ravenswood to bring peace to the haunted town.</p>",
+    "rating": 3,
+    "status": "want to read"
+  },
+  {
+    "id": 7049,
+    "title": "Journey of a Lifetime",
+    "author": "Samantha Williams",
+    "genre": "Adventure",
+    "description": "<p>Embarking on a journey that spans continents and cultures, Samantha Williams takes readers on an exhilarating adventure filled with unexpected twists and turns. As the protagonist navigates through uncharted territories, she encounters diverse characters who challenge her perceptions and broaden her horizons.</p> <p>From the bustling streets of exotic cities to the serene landscapes of remote villages, each destination brings new challenges and opportunities for growth. Along the way, she must confront her deepest fears and insecurities, learning valuable lessons about resilience, courage, and the power of human connection.</p> <p>As the journey unfolds, Samantha discovers that the true essence of adventure lies not in the destination, but in the experiences and relationships forged along the way. Her story is a testament to the transformative power of travel and the enduring spirit of exploration.</p>",
+    "rating": 4,
+    "status": "reading"
+  },
+  {
+    "id": 8832,
+    "title": "The Silent Grove",
+    "author": "Michael Brooks",
+    "genre": "Horror",
+    "description": "<p>In the heart of a dense forest, an ancient evil stirs, awakening after centuries of slumber. The Silent Grove, once a place of tranquility, becomes a realm of nightmares as dark forces begin to emerge. Michael Brooks weaves a chilling tale of horror and suspense, where every rustle of leaves and whisper of wind sends shivers down the spine.</p> <p>As the protagonist delves deeper into the grove, they uncover a series of gruesome events that have plagued the area for generations. Each discovery brings them closer to the malevolent entity that lies at the heart of the forest. With every step, the line between reality and nightmare blurs, and the protagonist must confront their deepest fears to survive.</p> <p>The Silent Grove is a masterful blend of psychological horror and supernatural terror, where the past and present collide in a haunting dance of shadows. Brooks' vivid descriptions and relentless pacing create an atmosphere of dread that lingers long after the final page is turned.</p>",
+    "rating": 2,
+    "status": "read"
+  },
+  {
+    "id": 9921,
+    "title": "Endless Skies",
+    "author": "Jordan Lee",
+    "genre": "Science Fiction",
+    "description": "<p>In a future where humanity has colonized the stars, Captain Jordan Lee commands a starship on a mission to explore uncharted territories. As they venture deeper into the cosmos, they encounter strange phenomena and alien civilizations that challenge their understanding of the universe.</p> <p>Amidst the vastness of space, the crew faces internal conflicts and external threats that test their unity and resolve. Each member of the crew brings unique skills and perspectives, but they must learn to work together to overcome the obstacles they encounter. Their journey is one of discovery, not only of new worlds but also of their own potential and limitations.</p> <p>Endless Skies is a thrilling tale of adventure and exploration, where the boundaries of human knowledge are constantly pushed. It is a story of courage, camaraderie, and the relentless pursuit of the unknown, set against the backdrop of the infinite expanse of space.</p>",
+    "rating": null,
+    "status": "want to read"
+  },
+  {
+    "id": 3914,
+    "title": "Beneath the Waves",
+    "author": "Carla Anderson",
+    "genre": "Romance",
+    "description": "<p>In the coastal town of Seabreeze, marine biologist Carla Anderson embarks on a journey of discovery and love. As she studies the mysterious underwater world, she encounters a charming local fisherman who shares her passion for the ocean. Together, they explore the depths of the sea, uncovering hidden wonders and forging a deep connection.</p> <p>As their relationship blossoms, they face challenges that test their bond and their commitment to protecting the marine environment. From battling environmental threats to navigating personal insecurities, they learn that love, like the ocean, is vast and unpredictable.</p> <p>Beneath the Waves is a heartwarming tale of romance and adventure, where the beauty of the ocean mirrors the depth of human emotions. Carla and her partner's journey is a testament to the power of love and the importance of preserving the natural world for future generations.</p>",
+    "rating": 5,
+    "status": "read"
+  },
+  {
+    "id": 5812,
+    "title": "Echoes of the Past",
+    "author": "Robert Hayes",
+    "genre": "Historical Fiction",
+    "description": "<p>In the heart of a war-torn country, Robert Hayes weaves a tale of love, loss, and resilience. 'Echoes of the Past' follows the journey of a young soldier who returns home after years of conflict, only to find that the battles he left behind have followed him. Haunted by memories of the battlefield, he struggles to reintegrate into a society that has moved on without him.</p> <p>As he reconnects with his family and friends, he discovers that the war has left scars on everyone, not just those who fought. His once vibrant hometown is now a place of sorrow and rebuilding, and he must navigate the complexities of a world that feels both familiar and foreign.</p> <p>Through the support of a compassionate therapist and the unexpected friendship of a fellow veteran, he begins to confront his trauma and find a path to healing. Along the way, he uncovers hidden truths about his family's past, revealing a legacy of strength and perseverance that inspires him to keep moving forward.</p> <p>Set against the backdrop of a nation recovering from the ravages of war, 'Echoes of the Past' is a poignant exploration of the human spirit's capacity for resilience and redemption. It is a story of hope and the enduring power of love to heal even the deepest wounds.</p> <p>As the protagonist grapples with his inner demons, he also becomes involved in efforts to rebuild his community, finding purpose and meaning in helping others. His journey is one of self-discovery and transformation, as he learns to embrace his past and look towards the future with renewed hope.</p> <p>Robert Hayes' masterful storytelling and richly drawn characters bring this powerful narrative to life, capturing the essence of a generation marked by conflict and the enduring quest for peace. 'Echoes of the Past' is a testament to the resilience of the human spirit and the unbreakable bonds of family and friendship.</p> <p>In the end, the protagonist's journey is a reminder that even in the darkest of times, there is always a glimmer of light, and that the echoes of the past can guide us towards a brighter future.</p>",
+    "rating": 4,
+    "status": "reading"
+  },
+  {
+    "id": 2491,
+    "title": "The Lost Garden",
+    "author": "Julia Stevens",
+    "genre": "Drama",
+    "description": "<p>In the heart of a forgotten estate, Julia Stevens unravels a tale of loss, love, and rediscovery. 'The Lost Garden' follows the journey of a young woman who inherits an abandoned mansion from a distant relative. As she explores the overgrown grounds, she stumbles upon a hidden garden that holds the secrets of her family's past.</p> <p>Determined to restore the garden to its former glory, she enlists the help of a local historian and a skilled gardener. Together, they uncover a series of letters and diaries that reveal the lives of those who once tended to the garden. Each discovery brings her closer to understanding her heritage and the legacy left behind by her ancestors.</p> <p>As she delves deeper into the history of the garden, she faces personal challenges that test her resolve and resilience. The restoration project becomes a journey of self-discovery, as she learns to confront her fears and embrace her newfound purpose. Along the way, she forms deep connections with the people who help her, finding friendship and love in unexpected places.</p> <p>The garden, once a symbol of neglect and decay, transforms into a place of beauty and hope. Its revival mirrors the protagonist's own journey of healing and growth. Through her efforts, she not only restores the garden but also mends the fractured relationships within her family.</p> <p>'The Lost Garden' is a poignant exploration of the power of nature, the importance of preserving history, and the enduring strength of the human spirit. Julia Stevens' evocative storytelling and richly drawn characters bring this heartwarming narrative to life, reminding us that even in the midst of loss, there is always the potential for renewal and rebirth.</p>",
+    "rating": 3,
+    "status": "want to read"
+  },
+  {
+    "id": 7945,
+    "title": "The Shadow's Edge",
+    "author": "Victor Richards",
+    "genre": "Thriller",
+    "description": "<p>In the bustling city of New York, a series of high-profile assassinations sends shockwaves through the political landscape. Victor Richards, a seasoned detective with a troubled past, is assigned to the case. As he delves deeper into the investigation, he uncovers a web of corruption and deceit that reaches the highest levels of power.</p> <p>With each new lead, Victor finds himself drawn into a dangerous game of cat and mouse, where the stakes are life and death. His pursuit of the truth takes him through the dark underbelly of the city, where he encounters a cast of enigmatic characters, each with their own secrets and agendas.</p> <p>As the body count rises, Victor must navigate a labyrinth of lies and betrayal, all while confronting his own demons. The closer he gets to the truth, the more he realizes that nothing is as it seems, and the line between friend and foe becomes increasingly blurred.</p> <p>In a race against time, Victor must use all his skills and instincts to uncover the mastermind behind the assassinations before it's too late. 'The Shadow's Edge' is a gripping thriller that explores the thin line between justice and vengeance, and the lengths one man will go to protect what he holds dear.</p>",
+    "rating": 5,
+    "status": "read"
+  },
+  {
+    "id": 79437,
+    "title": "Delete me",
+    "author": "Delete me",
+    "genre": "unknown",
+    "description": "missing info",
+    "rating": 5,
+    "status": "read"
+  }
+]
